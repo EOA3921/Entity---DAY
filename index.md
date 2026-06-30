@@ -6,5 +6,6 @@ STATUS//
 Contained 
 ---
 AVAILABLE FILES//
--Logs
+-[Logs](logs.md)
+-[Entry Procedure](procedure.md)
 ---
